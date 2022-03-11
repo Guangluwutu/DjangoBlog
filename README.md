@@ -1,2 +1,3 @@
 # DjangoBlog
-A simple blog program by django 
+这是一个简单的博客系统，是一个较为完整的前后端程序。通过迭代这个博客，个人可以快速掌握Python的Web开发技巧，掌握Django框架的使用，以及网站的后台维护等。
+
